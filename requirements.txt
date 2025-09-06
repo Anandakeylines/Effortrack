@@ -1,0 +1,6 @@
+PyQt5
+pygetwindow
+pyautogui
+pynput
+requests
+cryptography
